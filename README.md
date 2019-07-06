@@ -23,3 +23,7 @@ https://python-scripts.com/logging-python
 ### `example_batch_generator.py`
 Illustrates example of function which provides a generator for batches of size n
 
+### `ex_generator_and_augm_keras.py`
+Illustrates example of how you can use a generator as a wrapper over another generator.
+In this case augmentation generator was used as a wrapper over read files generator
+
