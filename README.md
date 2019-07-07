@@ -27,3 +27,14 @@ Illustrates example of function which provides a generator for batches of size n
 Illustrates example of how you can use a generator as a wrapper over another generator.
 In this case augmentation generator was used as a wrapper over read files generator
 
+### `example_left_join_perfomance.py`
+Illustrates performance of left join. Change N to see time performance of pd.merge function
+
+### `Decorators`
+This folder contains several examples how to use decorators
+
+Something more about decorators:
+https://realpython.com/primer-on-python-decorators/
+
+### `Multiprocessing`
+This folder contains two examples of multiprocessing work: with Memory Manager and without
