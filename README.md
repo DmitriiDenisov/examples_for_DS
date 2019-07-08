@@ -35,6 +35,3 @@ This folder contains several examples how to use decorators
 
 Something more about decorators:
 https://realpython.com/primer-on-python-decorators/
-
-### `Multiprocessing`
-This folder contains two examples of multiprocessing work: with Memory Manager and without
