@@ -30,6 +30,9 @@ In this case augmentation generator was used as a wrapper over read files genera
 ### `example_left_join_perfomance.py`
 Illustrates performance of left join. Change N to see time performance of pd.merge function
 
+### `get_size_variables.py`
+Allows to get information about size of all variables
+
 ### `Decorators`
 This folder contains several examples how to use decorators
 
