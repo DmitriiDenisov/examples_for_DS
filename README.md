@@ -42,6 +42,8 @@ https://realpython.com/primer-on-python-decorators/
 ### `Virtual environment for Jupyter Notebooks`
 Create:
 https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
+
 Remove: ```jupyter kernelspec uninstall unwanted-kernel```
+
 Rename Kernel: https://stackoverflow.com/questions/45085233/jupyter-kernel-is-there-a-way-to-rename-them
 
