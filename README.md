@@ -38,3 +38,6 @@ This folder contains several examples how to use decorators
 
 Something more about decorators:
 https://realpython.com/primer-on-python-decorators/
+
+### `Virtual environment for Jupyter Notebooks`
+https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
