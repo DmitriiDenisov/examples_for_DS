@@ -40,7 +40,7 @@ Something more about decorators:
 https://realpython.com/primer-on-python-decorators/
 
 ### `Create alias`
-In folder with binary files: (usually in /usr/bin/), ```sudo ln -s {path_to_executable} {name_of_alias}```
+In folder: (usually in folder with binaries: /usr/bin/), ```sudo ln -s {path_to_executable} {name_of_alias}```
 for example ```sudo ln -s /home/dmitryhse/.local/bin/pip3.7 pip3.7```
 
 
