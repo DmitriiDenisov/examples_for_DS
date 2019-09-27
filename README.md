@@ -39,6 +39,16 @@ This folder contains several examples how to use decorators
 Something more about decorators:
 https://realpython.com/primer-on-python-decorators/
 
+### `Create alias`
+In folder with binary files: (usually in /usr/bin/), ```sudo ln -s {path_to_executable} {name_of_alias}```
+for example ```sudo ln -s /home/dmitryhse/.local/bin/pip3.7 pip3.7```
+
+
+### `Virtualenv`
+1. ```pip3 install virtualenv```
+2. In your project folder: ```virtualenv -p {path_to_python} {name_of_virtualenv}``` for example:  ```virtualenv -p /usr/bin/python3.7 .venv```
+
+
 ### `Virtual environment for Jupyter Notebooks`
 Create:
 https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
