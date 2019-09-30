@@ -39,7 +39,7 @@ This folder contains several examples how to use decorators
 Something more about decorators:
 https://realpython.com/primer-on-python-decorators/
 
-### `Add to path`
+### `Example add to path`
 Add these row to file ```~/.bash_profile```:
 ```export PATH=/usr/local/Cellar/rabbitmq/<version>/sbin:$PATH```
 
