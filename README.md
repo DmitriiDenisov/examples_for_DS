@@ -39,6 +39,12 @@ This folder contains several examples how to use decorators
 Something more about decorators:
 https://realpython.com/primer-on-python-decorators/
 
+### `Add to path`
+Add these row to file ```~/.bash_profile```:
+```export PATH=/usr/local/Cellar/rabbitmq/<version>/sbin:$PATH```
+
+
+
 ### `Create alias`
 In folder: (usually in folder with binaries: /usr/bin/), ```sudo ln -s {path_to_executable} {name_of_alias}```
 for example ```sudo ln -s /home/dmitryhse/.local/bin/pip3.7 pip3.7```
