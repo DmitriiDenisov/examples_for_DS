@@ -63,3 +63,4 @@ Remove: ```jupyter kernelspec uninstall unwanted-kernel```
 
 Rename Kernel: https://stackoverflow.com/questions/45085233/jupyter-kernel-is-there-a-way-to-rename-them
 
+`jupyter kernelspec list` - list of available kernels
