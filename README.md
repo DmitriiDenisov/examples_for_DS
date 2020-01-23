@@ -64,3 +64,7 @@ Remove: ```jupyter kernelspec uninstall unwanted-kernel```
 Rename Kernel: https://stackoverflow.com/questions/45085233/jupyter-kernel-is-there-a-way-to-rename-them
 
 `jupyter kernelspec list` - list of available kernels
+
+### `bvious_dataset_where_algorithms_cant_manage.ipynb`
+
+Here you will find an example when a very simple dataset can't be separeted with ML algorithms without any feature engineering, but meanwhile you will find that the dataset itself is extremely easy
