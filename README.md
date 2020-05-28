@@ -68,3 +68,15 @@ Rename Kernel: https://stackoverflow.com/questions/45085233/jupyter-kernel-is-th
 ### `bvious_dataset_where_algorithms_cant_manage.ipynb`
 
 Here you will find an example when a very simple dataset can't be solved with ML algorithms without any feature engineering, but meanwhile you will find that the dataset itself is extremely easy
+
+### `Removing sensitive data from a repository`
+
+1. `brew install bfg`
+
+2. cd to your repo
+
+3. `bfg --delete-files queue.py` where `queue.py` is your file with sensitive data. Even if it is in some folder you have to run this command in root directory of repo
+
+Video: https://www.youtube.com/watch?v=5t03Vh9VYHg
+
+Source: https://rtyley.github.io/bfg-repo-cleaner/
