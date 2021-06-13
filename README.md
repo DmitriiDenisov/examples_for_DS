@@ -69,6 +69,11 @@ Rename Kernel: https://stackoverflow.com/questions/45085233/jupyter-kernel-is-th
 
 Here you will find an example when a very simple dataset can't be solved with ML algorithms without any feature engineering, but meanwhile you will find that the dataset itself is extremely easy
 
+### `dataClassExperiments.py`
+
+This file compares 3 structures: typedict, NamedTuple and dataclass
+
+
 ### Revert commit:
 
 1. `git revert <commit_hash>` (this commit will be reverted!)
