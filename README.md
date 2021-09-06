@@ -80,6 +80,24 @@ This file compares 3 structures: typedict, NamedTuple and dataclass
 
 2. `git push`
 
+## TabNine:
+
+https://www.tabnine.com/
+
+Install: https://www.tabnine.com/install/jupyternotebook
+Install2: https://github.com/codota/jupyter-tabnine
+
+in case error: 
+```
+TabNine was unable to install the python semantic completion backend.
+The command that failed was: `pip install python-language-server`
+For help, see tabnine.com/semantic.
+Or, type TabNine::no_sem to disable semantic completion for Python.
+(TabNine works well even without semantic completion.)
+```
+Try to execute:
+`python3 -m pip install python-language-server`
+
 ### `Removing sensitive data from a repository`
 
 1. `brew install bfg`
